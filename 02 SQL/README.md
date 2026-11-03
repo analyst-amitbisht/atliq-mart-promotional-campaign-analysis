@@ -1,4 +1,6 @@
-# **Overview —**
+# SQL Analysis – AtliQ Mart Promotional Campaigns
+
+## Overview
 
 This folder contains PostgreSQL queries developed to analyze the performance of AtliQ Mart's Diwali 2023 and Sankranti 2024 promotional campaigns.
 
